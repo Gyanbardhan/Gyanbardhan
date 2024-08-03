@@ -85,19 +85,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Gyanbardhan/Gemini_Student" title="Gemini_Student"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=Gemini_Student&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Gyanbardhan/MediChat" title="MediChat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=MediChat&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Gyanbardhan/Gemini_Student" title="Gemini_Student"><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=Gemini_Student&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Gyanbardhan/MediChat" title="MediChat"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=MediChat&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Gyanbardhan/DuplicateQuestionDetection" title="DuplicateQuestionDetection"><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=DuplicateQuestionDetection&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Gyanbardhan/PlantDiseaseDetection" title="PlantDiseaseDetection"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=PlantDiseaseDetection&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Gyanbardhan/Emotion-Detection" title="Emotion-Detection"><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=Emotion-Detection&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Gyanbardhan/College-Management-System" title="College-Management-System"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanbardhan&repo=College-Management-System &theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Gyanbardhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
