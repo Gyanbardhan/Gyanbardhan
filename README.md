@@ -17,17 +17,17 @@
   Hi, I'm Gyanbardhan, Data Scientist
   <br>
   <br>
-  🔬 I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
+  🎓 I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
   <br>
   🎓 I completed my 12th grade from Chauhan Public School, Bhagalpur, and my 10th grade from St. Paul's School, Bhagalpur
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I have a passion for coding in machine learning, exploring data science, and advancing in generative AI technologies. I also enjoy reading books related to these fields.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how fine tune a LLM Model.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Gyanbardhan/Gyanbardhan/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: bt21cse194@iiitn.ac.in">bt21cse194@iiitn.ac.in</a>
 </p>
 
 <hr>
