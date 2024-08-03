@@ -2,28 +2,24 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;This+is+Gyanbardhan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="[https://www.linkedin.com/in/osmandurdag](https://www.linkedin.com/in/gyanbardhan-68794b250/)/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/gyan_10022003/" title="Leetcode Profile"><img width="22" src="images/Leetcode.png"> Leetcode</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://leetcode.com/u/gyan_10022003/" title="Leetcode Profile"><img width="22" src="images/LeetCode.png"> Leetcode</a></code>
+  <code><a href="https://www.codechef.com/users/gyan_15102002" title="Codechef"><img width="22" src="images/Codechef.png">Codechef</a></code>
+  <code><a href="https://www.instagram.com/gyanbardhan123/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Gyanbardhan, Data Scientist
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I completed my 12th grade from Chauhan Public School, Bhagalpur, and my 10th grade from St. Paul's School, Bhagalpur
   <br>
   💻 I love writing code and learn anythings about it
   <br>
