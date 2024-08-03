@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/osmandurdag](https://www.linkedin.com/in/gyanbardhan-68794b250/)/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/gyanbardhan-68794b250/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/u/gyan_10022003/" title="Leetcode Profile"><img width="22" src="images/LeetCode.png"> Leetcode</a></code>
   <code><a href="https://www.codechef.com/users/gyan_15102002" title="Codechef"><img width="22" src="images/Codechef.png">Codechef</a></code>
   <code><a href="https://www.instagram.com/gyanbardhan123/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
