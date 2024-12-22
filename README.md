@@ -23,11 +23,11 @@
   <br>
   💻 I have a passion for coding in machine learning, exploring data science, and advancing in generative AI technologies. I also enjoy reading books related to these fields.
   <br>
-  📚 I’m currently learning how fine tune a LLM Model.
+  📚 I have worked on Different Fine Tuned Projects including LLaMA-3.2 and Phi-3.5.
   <br>
   💬 Ask me anything about from <a href="https://github.com/Gyanbardhan/Gyanbardhan/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: bt21cse194@iiitn.ac.in">bt21cse194@iiitn.ac.in</a>
+  📫 How to reach me: <a href="mailto: gyanbardhanroy123@gmail.com">gyanbardhanroy123@gmail.com</a>
 </p>
 
 <hr>
